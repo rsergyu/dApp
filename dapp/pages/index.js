@@ -183,8 +183,8 @@ export default function Home() {
     <>
     <div>
       <Head>
-        <title>Whitelist Dapp</title>
-        <meta name="description" content="Whitelist-Dapp" />
+        <title>Dream Rocket-dApp</title>
+        <meta name="description" content="Dream Rocket-dApp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
